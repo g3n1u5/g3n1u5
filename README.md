@@ -5,10 +5,8 @@
 </p>
 
 <p align="center">
-  <a
   <img src="https://readme-typing-svg.demolab.com?font=&size=23&duration=1500&pause=500&color=2BEDF7&background=9A230800&width=435&lines=I+am+Sinan.;hacker%2C+pentester+%2C+bug+hunter;%26+g3n1u5" alt="Typing SVG" /> 
-  </a>
-<img height="80" src="https://github.com/g3n1u5/g3n1u5/blob/main/1.gif"/>
+<img height="200" src="https://github.com/g3n1u5/g3n1u5/blob/main/1.gif"/>
 </p>
 
 ---
