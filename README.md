@@ -17,9 +17,8 @@
 ---
 
 ### 🕶️ About Me
-. wanna be hacker.
-
-<img src="https://www.hackthebox.eu/badge/image/1208026"/>
+<h1 align="center"> wanna be <a href="https://app.hackthebox.com/profile/1208026">hacker</a>
+<img src="https://www.hackthebox.eu/badge/image/1208026"/>https://app.hackthebox.com/profile/1208026
 
 ---
 <br>
@@ -29,7 +28,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,c,bash,java" />
+    <img src="https://skillicons.dev/icons?i=git,python,c,bash" />
   </a>
 </p>
 
