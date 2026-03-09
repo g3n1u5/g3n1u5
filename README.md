@@ -16,8 +16,8 @@
 
 ---
 
-### 🧑‍💻 About Me
-wanna be hacker.
+### 🕶️ About Me
+. wanna be hacker.
 
 <img src="https://www.hackthebox.eu/badge/image/1208026"/>
 
