@@ -25,7 +25,7 @@
 <br>
 
 ##  Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<div style='display:flex; align-items:center; gap: 10px;'>
 
 <a href="https://www.credly.com/badges/2857bb5a-c9ca-4dd2-8be4-2feaef457f73/public_url">
 
