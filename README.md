@@ -17,12 +17,10 @@
 ---
 
 ### 🕶️ About Me
-<h3> wanna be <a href="https://app.hackthebox.com/profile/1208026/">hacker</a>
-
-<br>
+.wanna be
 
 <img src="https://www.hackthebox.eu/badge/image/1208026"/>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6462736" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/i..png" alt="Badge" />
 
 
 ---
