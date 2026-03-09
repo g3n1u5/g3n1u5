@@ -24,15 +24,17 @@
 <br>
 <br>
 
-### 🛠️ Tech Stack (Midnight Edition)
+##  Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,c,bash" />
-  </a>
-</p>
+<a href="https://www.credly.com/badges/2857bb5a-c9ca-4dd2-8be4-2feaef457f73/public_url">
 
----
+<img src="https://github.com/g3n1u5/g3n1u5/blob/main/1.png" width="100px" height="100px" />
+ 
+ </div>
+<br>
+
+
 
 ### 📊 GitHub Activity
 <div align="center">
