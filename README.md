@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 wanna be hacker.
-<iframe src="https://www.hackthebox.eu/badge/image/1208026" style='border:none;'></iframe>
+<img src="https://www.hackthebox.eu/badge/image/1208026"/>
 
 ---
 
