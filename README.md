@@ -1,4 +1,4 @@
-[![Header]([https://i.pinimg.com/originals/65/c0/1c/65c01c86ed3cca1f288083628402deae.gif](https://i.pinimg.com/originals/db/d0/63/dbd06355a1cb84f4577b320b486d957a.gif))](https://github.com/thevijayshankersharma)
+[![Header](https://i.pinimg.com/originals/db/d0/63/dbd06355a1cb84f4577b320b486d957a.gif)](https://github.com/thevijayshankersharma)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=g3n1u5&label=PROFILE%20VIEWS&color=0077b6&style=for-the-badge" />
