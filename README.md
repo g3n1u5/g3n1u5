@@ -17,7 +17,8 @@
 ---
 
 ### 🕶️ About Me
-<h1 align="center"> wanna be <a href="https://app.hackthebox.com/profile/1208026">hacker</a>
+<h3> wanna be <a href="https://app.hackthebox.com/profile/1208026/">hacker</a>
+
 <img src="https://www.hackthebox.eu/badge/image/1208026"/>https://app.hackthebox.com/profile/1208026
 
 ---
