@@ -4,8 +4,8 @@
   <img src="https://komarev.com/ghpvc/?username=g3n1u5&label=PROFILE%20VIEWS&color=0077b6&style=for-the-badge" />
 </p>
 
-<p align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/1.gif>
-  <img src="https://readme-typing-svg.demolab.com?font=&size=23&duration=1500&pause=500&color=2BEDF7&background=9A230800&width=435&lines=I+am+Sinan.;hacker%2C+pentester+%2C+bug+hunter;%26+g3n1u5" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=&size=23&duration=1500&pause=500&color=2BEDF7&background=9A230800&width=435&lines=I+am+Sinan.;hacker%2C+pentester+%2C+bug+hunter;%26+g3n1u5" alt="Typing SVG" /> <img height="80" src="https://github.com/g3n1u5/g3n1u5/blob/main/png-gif-3.gif"/>
 </p>
 
 ---
