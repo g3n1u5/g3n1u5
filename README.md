@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=g3n1u5&label=PROFILE%20VIEWS&color=0077b6&style=for-the-badge" />
 </p>
 
-[![Header(https://github.com/g3n1u5/g3n1u5/blob/main/giphy.gif)](https://github.com/g3n1u5)
+[![Header](https://github.com/g3n1u5/g3n1u5/blob/main/giphy.gif)](https://github.com/g3n1u5)
 
 
 <img align="right" hspace="30"
