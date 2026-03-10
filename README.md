@@ -43,7 +43,12 @@
 
 <a href="https://academy.hackthebox.com/achievement/badge/68b78546-1c8d-11f1-9254-bea50ffe6cb4">
 
-<img src="https://academy.hackthebox.com/storage/badges/playing-with-the-mess.png" width="100px" height="100px" /> 
+<img src="https://academy.hackthebox.com/storage/badges/7f81e8837d0540d610c5019478c7647a/logo.png" width="100px" height="100px" /> 
+
+<a href="https://academy.hackthebox.com/achievement/badge/d73ff813-a332-11ef-864f-bea50ffe6cb4">
+<img src="https://academy.hackthebox.com/storage/badges/60fc416b5eec425a6451aeb1e50d14e4/logo.png" width="100px" height="100px" />
+
+
  </div>
 <br>
 
