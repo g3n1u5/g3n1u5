@@ -34,7 +34,15 @@
  </div>
 <br>
 
+##  HTB 📦
+<div style='display:flex; align-items:center; gap: 10px;'>
 
+<a href="https://academy.hackthebox.com/achievement/badge/f345bc48-1c98-11f1-9254-bea50ffe6cb4">
+
+<img src="https://academy.hackthebox.com/storage/badges/playing-with-the-mess.png" width="100px" height="100px" />
+ 
+ </div>
+<br>
 
 ### 📊 GitHub Activity
 <div align="center">
