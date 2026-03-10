@@ -48,6 +48,9 @@
 <a href="https://academy.hackthebox.com/achievement/badge/d73ff813-a332-11ef-864f-bea50ffe6cb4">
 <img src="https://academy.hackthebox.com/storage/badges/60fc416b5eec425a6451aeb1e50d14e4/logo.png" width="100px" height="100px" />
 
+<a href="https://academy.hackthebox.com/achievement/badge/2165c18e-1e8f-11f0-864f-bea50ffe6cb4">
+<img src="https://academy.hackthebox.com/storage/badges/0d982edba15037e6d52d54eaa7f0209a/logo.png" width="100px" height="100px" />
+
 
  </div>
 <br>
