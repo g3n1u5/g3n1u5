@@ -51,6 +51,8 @@
 <a href="https://academy.hackthebox.com/achievement/badge/2165c18e-1e8f-11f0-864f-bea50ffe6cb4">
 <img src="https://academy.hackthebox.com/storage/badges/0d982edba15037e6d52d54eaa7f0209a/logo.png" width="100px" height="100px" />
 
+<a href="https://academy.hackthebox.com/achievement/badge/9d20abb7-1ca5-11f1-9254-bea50ffe6cb4">
+<img src="https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png" width="100px" height="100px" />
 
  </div>
 <br>
