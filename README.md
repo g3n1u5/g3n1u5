@@ -68,7 +68,7 @@
 
 ### 📬 Connect With Me
 <p align="left">
-  <a href="https://www.youtube.com/@s3curity target="_blank">
+  <a href="https://www.youtube.com/@s3curity" target="_blank">
     <img src="https://img.shields.io/badge/youtube-0077b6?style=for-the-badge&logo=youtube&logoColor=red" />
   </a>
   <a href="mailto:ohoverflow@gmail.com">
